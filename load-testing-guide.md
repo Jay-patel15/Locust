@@ -2,7 +2,7 @@
 
 **Project:** SecondBrain  
 **Tool:** Locust 2.23.1 (Python 3.11.9)  
-**Prepared by:** Jay Patel QA 
+**Prepared by:** Jay Patel QA   
 **Date:** April 2026
 
 ---
