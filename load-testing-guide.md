@@ -1,13 +1,13 @@
-# ThirdBrain UI — Load Test Files
+# ThirdBrain — Load Test Files
 
-**Project:** ThirdBrain UI  
+**Project:** SecondBrain  
 **Tool:** Locust 2.23.1 (Python 3.11.9)  
-**Prepared by:** Engineering Team  
+**Prepared by:** Jay Patel QA 
 **Date:** April 2026
 
 ---
 
-## Executive Summary *(For Managers & Team Leads)*
+## Executive Summary *(For Managers,Team Leads & Devs)*
 
 As part of ensuring the ThirdBrain platform is production-ready and can handle real-world traffic, the engineering team has implemented **automated load testing** using an industry-standard open-source tool called **Locust**.
 
