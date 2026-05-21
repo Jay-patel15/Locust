@@ -1,6 +1,6 @@
-# 🦗 Locust Load Testing for ThirdBrain UI
+# 🦗 Locust Load Testing for SecondBrain
 
-Welcome to the **ThirdBrain UI Load Testing** repository! This repository contains automated load testing scripts built with [Locust](https://locust.io/) to ensure the ThirdBrain platform is stable, performant, and production-ready under real-world traffic.
+Welcome to the **SecondBrain Load Testing** repository! This repository contains automated load testing scripts built with [Locust](https://locust.io/) to ensure the ThirdBrain platform is stable, performant, and production-ready under real-world traffic.
 
 ## 🎯 Objective
 Load testing helps us answer: **"What happens to our platform when many users access it at the same time?"**
