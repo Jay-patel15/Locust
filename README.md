@@ -18,9 +18,21 @@ We have separated our performance testing into specific files, each targeting a 
 
 *Note: These tests efficiently simulate HTTP requests and API calls; they simulate exact server loads rather than doing UI/browser rendering or completing OAuth flows.*
 
-## 🚀 How to Run
+## ⚙️ Installation
 
-Before running the tests, make sure you have [Locust installed](https://docs.locust.io/en/stable/installation.html).
+To run these tests, you must have Python and Locust installed. The recommended version for this project is **Locust 2.23.1** (tested on **Python 3.11.9**).
+
+Install the specific version of Locust via `pip`:
+```bash
+pip install locust==2.23.1
+```
+
+Verify the installation:
+```bash
+locust --version
+```
+
+## 🚀 How to Run
 
 ### 1. Test Chat API Only
 ```bash
