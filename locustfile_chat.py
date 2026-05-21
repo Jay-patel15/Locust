@@ -13,7 +13,7 @@ import random
 from locust import HttpUser, task, between
 
 # ---------------------------------------------------------------------------
-# Config
+# Config — update these with real IDs for authenticated test results
 # ---------------------------------------------------------------------------
 
 PLACEHOLDER_USER_ID  = "1a048a15-a212-44df-ac43-9aea600f6718"

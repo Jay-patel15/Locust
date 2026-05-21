@@ -23,7 +23,7 @@ import uuid
 from locust import HttpUser, task, between
 
 # ---------------------------------------------------------------------------
-# Config
+# Config — update these with real IDs for authenticated test results
 # ---------------------------------------------------------------------------
 
 PLACEHOLDER_BRAND_ID = "258"
